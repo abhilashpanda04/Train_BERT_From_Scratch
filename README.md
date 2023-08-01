@@ -21,9 +21,10 @@ Hugging Face Datasets library.
 
 Before running the notebook, make sure you have the following
 dependencies installed:
-• keras—nlp
-• TensorFlow
-• Hugging Face Datasets library
+
+1. keras—nlp
+2. TensorFlow
+3. Hugging Face Datasets library
 
 #Usage
 ------
