@@ -1,4 +1,4 @@
-#TrainBERTFrom Scratch
+#Train BERT From Scratch
 ---------------------
 
 This Jupyter Notebook demonstrates how to pretrain and finetune a BERT
